@@ -17,7 +17,7 @@
 
 #### 🛡️ TryHackMe
 <div align="center">
-    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2432994" style='border:none;'></iframe>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/MITMX.png" alt="Your Image Badge" />
 </div>
 
 ### 💻 Languages and Tools
