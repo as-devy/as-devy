@@ -14,15 +14,6 @@
   </a>
 </p>
 
----
-
-### 🌱 Currently Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/Cyber%20Security-FF6B6B?style=for-the-badge&logo=hackthebox&logoColor=white">
-</p>
-
----
-
 ### 💻 Languages and Tools
 
 #### 🖌 Frontend
@@ -86,6 +77,5 @@
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=as-devy&theme=dracula" height="180em"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=as-devy&theme=dracula" height="180em"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=as-devy&theme=dracula" height="180em"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=as-devy&theme=dracula" height="180em"/>
 </div>
