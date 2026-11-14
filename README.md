@@ -6,9 +6,8 @@
 
 <br/>
 
-<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit_the_site-ffffff?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Say_hello-161b22?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://omar-elbedwehy.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit_the_site-ffffff?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/omar-elbedwehy"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
