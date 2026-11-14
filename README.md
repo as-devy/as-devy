@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=200&section=header&text=Omar%20Elbedwehy&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20MERN%20%C2%B7%20Next.js%20%C2%B7%20NestJS&descSize=18&descAlignY=60&animation=fadeIn" alt="Omar Elbedwehy - Full Stack Developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=200&section=header&text=Omar%20Elbedwehy&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=18&descAlignY=60&animation=fadeIn" alt="Omar Elbedwehy - Full Stack Developer" width="100%" />
 
 <a href="https://github.com/as-devy"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=C9D1D9&center=true&vCenter=true&width=620&lines=I+build+fast%2C+secure+web+applications;React+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+MongoDB;Security-minded+full+stack+engineer" alt="Typing SVG" /></a>
 
